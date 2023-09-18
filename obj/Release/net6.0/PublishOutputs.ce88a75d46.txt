@@ -1,0 +1,7 @@
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\HelloWebApp.exe
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\HelloWebApp.dll
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\HelloWebApp.deps.json
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\HelloWebApp.runtimeconfig.json
+C:\Demos\MyAzureSolution\HelloWebApp\obj\Release\net6.0\PubTmp\Out\HelloWebApp.pdb
